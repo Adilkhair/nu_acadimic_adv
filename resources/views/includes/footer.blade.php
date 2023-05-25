@@ -1,16 +1,12 @@
-<footer id="footer">
-    <div class="container py-4">
-      <div class="copyright">
-        &copy; Copyright <strong><span>2023</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-       
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bizland-bootstrap-business-template/ -->
-        Designed by <a href="#">Adil Mobarek</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
- 
+ <footer class="bg-light text-center text-lg-start fixed-bottom"style="background-color:#054535!important; color:#fff">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+  &copy; Copyright <strong><span>2023</span></strong>. All Rights Reserved
+
+    <a class="text-dark" href="#">Designed by <a href="#">Adil Mobarek</a></a>
+  </div>
+  <!-- Copyright -->
+</footer>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
  
   <script src="{{ asset('assets/vendor/aos/aos.js')}}"></script>
